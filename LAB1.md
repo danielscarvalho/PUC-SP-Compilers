@@ -138,7 +138,7 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 3. A entrada (input) é um arquivo texto, a saída (output) é um vetor (lista) de strings, exemplo: `["Do", "título", ".", "Uma", "noite", "destas", ",", "vindo", "da", "cidade", "para", "o", "Engenho", "Novo", ",", "encontrei", "no", "trem", "da", "Central", "um", "rapaz", "aqui", "do", "bairro", ",", "que", "eu", "conheço", "de", "vista", "e", "de", "chapéo", ".", "Comprimentou-me", ",", "sentou-se", "ao", "pé", "de", "mim", ",", ...]`
 4. Realizar a mesma implementação em Java
 5. O programa em Python e Java deve ser bem documentado
-6. Subir no repo do GitHub desta atividade o arquivo do livro e o output (saída) vetor (lista)
+6. Subir no repo do GitHub desta atividade o arquivo do livro e o output (saída) vetor (lista)<br>
 Note que ainda não estamos identificando o tipo dos tokens: verbo, adjetivo, pontuação, pronome, etc...
 
 > Todas estas atividades devem ser entregues no mesmo repo do GitHub<br>

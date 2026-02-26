@@ -147,9 +147,11 @@ Note que ainda não estamos identificando o tipo dos tokens: verbo, adjetivo, po
 ### Atividade Extra - Analisador léxico da língua portuguesa
 
 Usando AI LLM, pedir o seguinte prompt: <br>
-"Criar um programa em Python, analisador léxico - scanner,  para quebrar em tokens uma string com um livro, conforme as regras da língua portuguesa. Devolver uma lista de tuplas, o primeiro item é o token, e o segundo item é o tipo: pontuação, verbo, artigo, pronome, objeto, etc... Tokens não identificados retorne '??'"
+"Criar um programa em Python, analisador léxico - scanner - linguagem regular,  para quebrar em tokens uma string com um livro, conforme as regras da língua portuguesa. Devolver uma lista de tuplas, o primeiro item é o token, e o segundo item é o tipo: pontuação, verbo, artigo, pronome, objeto, etc... Tokens não identificados retorne '??'"
 
-Teste o programa criado por IA com o livro.
+Teste o programa criado por IA com o livro escolhido.
+
+Discussão: Seria possível a IA criar um reconhecedor de língua portuguesa usando regexp, automato finito no contexto de gramática regular?
 
 ### Entrega final do Lab (em duplas - pairing)
 - Link do relatório em MD no GitHub com:

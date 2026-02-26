@@ -132,7 +132,7 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 #### **Atividade 6 – Tokenizar livro em portugues** (30 min + duplas)
 
 **Atividade:**
-1. Baixar livro .txt à escolha da equipe do Project Gutenberg. https://www.gutenberg.org/
+1. Baixar livro .txt UTF-8 à escolha da equipe do Project Gutenberg. https://www.gutenberg.org/
 2. Criar programa em Python usando regexp para tokenizar o livro conforme a gramática da língua portuguesa
 3. Realizar a mesma implementação em Java
 4. O programa em Python e Java deve ser bem documentado

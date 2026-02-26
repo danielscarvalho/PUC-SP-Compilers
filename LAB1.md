@@ -31,6 +31,8 @@ Após ler o Capítulo 1 (especialmente a seção 1.2.1 – Lexical Analysis), va
 #### **Atividade 1 – Bash no Terminal Ubuntu: Simulando o “fluxo de entrada” do Scanner** (30 min)
 **Objetivo:** Entender o conceito de *character stream* que o livro menciona.  
 **Professor demonstra no projetor:**
+Experimentar comandos básicos do Linux no terminal e visão geral de como o Bash funciona.<br>
+Como criar scripts executáveis no Linux.
 ```bash
 while true; do
     read -r linha

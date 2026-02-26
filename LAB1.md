@@ -149,7 +149,7 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
   - Captura das telas do JFLAP
   - Resposta da comparação OpenAI
   - Uma frase de cada aluno: “O que há de interessante no analisador léxico (scanner), automato finito”
-  - Texto em MD explicando as atividades realizadas...
+  - Texto em MD explicando/documentação as atividades realizadas...
     
 Referência - extra:
 

@@ -16,6 +16,7 @@ Atividades:
 - OpenAI tokenizer - https://platform.openai.com/tokenizer (é um pouco diferente dos tokens de compiladores que seguem a gramática da linguagem de programação)
 - JFLAP - https://www.jflap.org/tutorial/ - Automatos Finitos e regex
 - Google Colab - https://colab.research.google.com/ - Regexp com Python
+- Criar analisador léxico - Scanner - 1 fase de compilação (análise) para tokenizar texto em língua portuguesa
 
 **Fase 1 de Compiladores (Análise Léxica / Scanner)**: Capítulo 1 do Livro do Dragão 
 

@@ -143,7 +143,7 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 
 ### Entrega final do Lab (em duplas - pairing)
 - Link do relatório em MD no GitHub com:
-  - Identificação: faculdade, curso, disciplina, alunos
+  - Identificação: faculdade, curso, disciplina, LAB, alunos
   - Printscreen de todas as atividades
   - Código Python + Java funcionando
   - Captura das telas do JFLAP

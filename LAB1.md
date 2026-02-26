@@ -6,7 +6,7 @@ A **fase 1** de um compilador, chamada **análise léxica** (ou **scanner** / an
 
 Ler cap. 1 do livro do dragão.
 
-- Bash - Prompt do Linux Ubuntu
+- Bash - Prompt do Linux Ubuntu - Loop infinito do terminal
 - RegExp - https://regexr.com/
 - RegExp - https://regex101.com/
 - OpenAI tokenizer - https://platform.openai.com/tokenizer (é um pouco diferente dos tokens de compiladores que seguem a gramática da linguagem de programação)

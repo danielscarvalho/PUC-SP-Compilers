@@ -1,0 +1,51 @@
+Token                      Tipo
+---------------------------------------------
+Uma                        ARTIGO
+noite                      SUBSTANTIVO / ADJETIVO
+destas                     SUBSTANTIVO / ADJETIVO
+,                          PONTUAÇÃO
+vindo                      VERBO
+da                         PREPOSIÇÃO
+cidade                     SUBSTANTIVO / ADJETIVO
+para                       PREPOSIÇÃO
+o                          ARTIGO
+Engenho                    NOME_PRÓPRIO
+Novo                       NOME_PRÓPRIO
+,                          PONTUAÇÃO
+encontrei                  VERBO
+no                         PREPOSIÇÃO
+trem                       SUBSTANTIVO / ADJETIVO
+da                         PREPOSIÇÃO
+Central                    NOME_PRÓPRIO
+um                         ARTIGO
+rapaz                      SUBSTANTIVO / ADJETIVO
+aqui                       PALAVRA_FECHADA
+do                         PREPOSIÇÃO
+bairro                     SUBSTANTIVO / ADJETIVO
+,                          PONTUAÇÃO
+que                        CONJUNÇÃO
+eu                         PRONOME
+conheço                    VERBO
+de                         PREPOSIÇÃO
+vista                      SUBSTANTIVO / ADJETIVO
+e                          CONJUNÇÃO
+de                         PREPOSIÇÃO
+chapéu                     SUBSTANTIVO / ADJETIVO
+.                          PONTUAÇÃO
+Comprimentou-me            VERBO
+,                          PONTUAÇÃO
+sentou-se                  VERBO
+ao                         PREPOSIÇÃO
+pé                         SUBSTANTIVO / ADJETIVO
+de                         PREPOSIÇÃO
+mim                        PRONOME
+e                          CONJUNÇÃO
+disse                      VERBO
+:                          PONTUAÇÃO
+"                          PONTUAÇÃO
+Boa                        SUBSTANTIVO / ADJETIVO
+noite                      SUBSTANTIVO / ADJETIVO
+,                          PONTUAÇÃO
+Bentinho                   NOME_PRÓPRIO
+!                          PONTUAÇÃO
+"                          PONTUAÇÃO

@@ -8,6 +8,9 @@ Ler cap. 1 do livro do dragão.
 
 Atividades:
 
+Iniciamos em aula, finalização pela equipe
+
+- JFAP experimentar automatos com pilha, gramática livre de contexto
 - Balanced Parentesis: Criar parser
 - XML para JSON: Criar parser
 
@@ -97,11 +100,9 @@ código (x + y) { if (true) { ok } }
 ### Entrega final do LAB (em duplas - pairing)
 - Link do relatório em MD no GitHub com:
   - Identificação: faculdade, curso, disciplina, LAB, alunos
-  - Printscreen de todas as atividades
-  - Código Python + Java funcionando
-  - Captura das telas do JFLAP
-  - Resposta da comparação OpenAI
-  - Um parágrafo de cada aluno: “O que há de interessante no analisador léxico (scanner), automato finito, gramática regular”
+  - Printscreen dos experimentos com o JFLAP
+  - Código Python + Java funcionando dos parser de XML e Balanced Parenteses
+  - Um parágrafo de cada aluno: “O que há de interessante no analisador sintático (parser), automato com pilha, gramática livre de contexto”
   - Texto em MD explicando/documentando as atividades realizadas...
     
 Referência - extra:

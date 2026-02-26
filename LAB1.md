@@ -8,6 +8,8 @@ Ler cap. 1 do livro do dragão.
 
 Atividades:
 
+Iniciamos em aula, finalização pela equipe
+
 - Bash - Prompt do Linux Ubuntu - Loop infinito do terminal - Conceitos básicos de comandos do Linux no terminal
 - RegExp - https://regexr.com/ - Regexp para reconhecer e-mails, números, telefones e outros padrões...
 - RegExp - https://regex101.com/ - Regexp para reconhecer e-mails, números, telefones e outros padrões...

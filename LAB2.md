@@ -11,6 +11,7 @@ Atividades:
 Iniciamos em aula, finalização pela equipe
 
 - JFLAP experimentar automatos com pilha, gramática livre de contexto: https://www.jflap.org/
+- FAT - Finit Automata Tool (University of Innsbruck, Austria): http://cl-informatik.uibk.ac.at/software/fat/
 - Balanced Parentesis: Criar parser
 - XML para JSON: Criar parser
 
@@ -100,7 +101,7 @@ código (x + y) { if (true) { ok } }
 ### Entrega final do LAB (em duplas - pairing)
 - Link do relatório em MD no GitHub com:
   - Identificação: faculdade, curso, disciplina, LAB, alunos
-  - Printscreen dos experimentos com o JFLAP
+  - Printscreen dos experimentos com o JFLAP e FAT
   - Código Python + Java funcionando dos parser de XML e Balanced Parenteses
   - Um parágrafo de cada aluno: “O que há de interessante no analisador sintático (parser), automato com pilha, gramática livre de contexto”
   - Texto em MD explicando/documentando as atividades realizadas...

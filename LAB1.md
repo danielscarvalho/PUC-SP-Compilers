@@ -9,8 +9,10 @@ Ler cap. 1 do livro do dragão.
 - Bash - Prompt do Linux Ubuntu
 - RegExp - https://regexr.com/
 - RegExp - https://regex101.com/
+- OpenAI tokenizer - https://platform.openai.com/tokenizer (é um pouco diferente dos tokens de compiladores que seguem a gramática da linguagem de programação)
 - JFLAP - https://www.jflap.org/tutorial/
 - Google Colab - https://colab.research.google.com/
+- 
   
 Referência - extra:
 

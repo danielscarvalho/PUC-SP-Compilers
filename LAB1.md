@@ -153,15 +153,15 @@ Teste o programa criado por IA com o livro escolhido.
 
 Discussão: Seria possível a IA criar um reconhecedor de língua portuguesa usando regexp, automato finito no contexto de gramática regular?
 
-### Entrega final do Lab (em duplas - pairing)
+### Entrega final do LAB (em duplas - pairing)
 - Link do relatório em MD no GitHub com:
   - Identificação: faculdade, curso, disciplina, LAB, alunos
   - Printscreen de todas as atividades
   - Código Python + Java funcionando
   - Captura das telas do JFLAP
   - Resposta da comparação OpenAI
-  - Uma frase de cada aluno: “O que há de interessante no analisador léxico (scanner), automato finito”
-  - Texto em MD explicando/documentação as atividades realizadas...
+  - Um parágrafo de cada aluno: “O que há de interessante no analisador léxico (scanner), automato finito, gramática regular”
+  - Texto em MD explicando/documentando as atividades realizadas...
     
 Referência - extra:
 

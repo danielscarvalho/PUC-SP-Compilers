@@ -129,6 +129,18 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 
 **Discussão final em plenária (15 min):** “Por que o scanner de compilador precisa ser preciso e seguir a gramática, enquanto o da OpenAI não?”
 
+#### **Atividade 6 – Tokenizar livro em portugues** (30 min + duplas)
+
+**Atividade:**
+1. Baixar livro .txt à escolha da equipe do Project Gutenberg. https://www.gutenberg.org/
+2. Criar programa em Python usando regexp para tokenizar o livro conforme a gramática da língua portuguesa
+3. Realizar a mesma implementação em Java
+4. O programa em Python e Java deve ser bem documentado
+5. Subir no GitHub desta atividade o arquivo do livro e o output (saída) tokenizado
+
+> Todas estas atividades devem ser entregues no mesmo repo do GitHub
+> Subir todos os arquivos de input e output utilizados
+
 ### Entrega final do Lab (em duplas - pairing)
 - Link do relatório em MD no GitHub com:
   - Identificação: faculdade, curso, disciplina, alunos

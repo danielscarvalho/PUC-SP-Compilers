@@ -14,3 +14,5 @@ Ler cap. 1 do livro do dragão.
 Referência - extra:
 
 <img width="1400" height="788" alt="image" src="https://github.com/user-attachments/assets/00a5b168-bc93-408e-a868-240d8ea17f9c" />
+<br>
+<img width="1626" height="1134" alt="image" src="https://github.com/user-attachments/assets/30ce03e5-c6ec-4838-924b-b0674b9ccdbc" />

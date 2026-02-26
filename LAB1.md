@@ -9,12 +9,18 @@ Ler cap. 1 do livro do dragão.
 - Bash - Prompt do Linux Ubuntu - Loop infinito do terminal
 - RegExp - https://regexr.com/
 - RegExp - https://regex101.com/
+- Find replace em editores de texto, útil para processar arquivos de dados
+- RegExp - em Java e Python
 - OpenAI tokenizer - https://platform.openai.com/tokenizer (é um pouco diferente dos tokens de compiladores que seguem a gramática da linguagem de programação)
 - JFLAP - https://www.jflap.org/tutorial/
 - Google Colab - https://colab.research.google.com/
+ 
   
 Referência - extra:
 
 <img width="1400" height="788" alt="image" src="https://github.com/user-attachments/assets/00a5b168-bc93-408e-a868-240d8ea17f9c" />
 <br>
 <img width="1626" height="1134" alt="image" src="https://github.com/user-attachments/assets/30ce03e5-c6ec-4838-924b-b0674b9ccdbc" />
+<br>
+<img width="300" height="394" alt="image" src="https://github.com/user-attachments/assets/e84b37d3-4976-4a3d-a5a1-5788557296a3" />
+

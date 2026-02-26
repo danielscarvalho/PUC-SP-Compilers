@@ -134,9 +134,10 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 **Atividade:**
 1. Baixar livro .txt UTF-8 à escolha da equipe do Project Gutenberg. https://www.gutenberg.org/
 2. Criar programa em Python usando regexp para tokenizar o livro conforme a gramática da língua portuguesa
-3. Realizar a mesma implementação em Java
-4. O programa em Python e Java deve ser bem documentado
-5. Subir no GitHub desta atividade o arquivo do livro e o output (saída) tokenizado
+3. A entrada (input) é um arquivo texto, a saída (output) é um vetor (lista) de strings, exemplo: `["Do", "título", ".", "Uma", "noite", "destas", ",", "vindo", "da", "cidade", "para", "o", "Engenho", "Novo", ",", "encontrei", "no", "trem", "da", "Central", "um", "rapaz", "aqui", "do", "bairro", ",", "que", "eu", "conheço", "de", "vista", "e", "de", "chapéo", ".", "Comprimentou-me", ",", "sentou-se", "ao", "pé", "de", "mim", ",", ...`
+4. Realizar a mesma implementação em Java
+5. O programa em Python e Java deve ser bem documentado
+6. Subir no GitHub desta atividade o arquivo do livro e o output (saída) tokenizado
 
 > Todas estas atividades devem ser entregues no mesmo repo do GitHub<br>
 > Subir todos os arquivos de input e output utilizados

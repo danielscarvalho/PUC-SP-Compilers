@@ -133,7 +133,7 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 #### **Atividade 6 – Tokenizar livro em português (Criar analisador léxico, scanner)** (30 min + duplas)
 
 **Atividade:**
-1. Baixar livro .txt UTF-8 à escolha da equipe do Project Gutenberg. https://www.gutenberg.org/
+1. Baixar livro .txt UTF-8, à escolha da equipe, do Project Gutenberg. https://www.gutenberg.org/
 2. Criar programa em Python, scanner, usando regexp para quebrar em tokens o texto do livro conforme a gramática da língua portuguesa
 3. A entrada (input) é um arquivo texto, a saída (output) é um vetor (lista) de strings, exemplo: `["Do", "título", ".", "Uma", "noite", "destas", ",", "vindo", "da", "cidade", "para", "o", "Engenho", "Novo", ",", "encontrei", "no", "trem", "da", "Central", "um", "rapaz", "aqui", "do", "bairro", ",", "que", "eu", "conheço", "de", "vista", "e", "de", "chapéo", ".", "Comprimentou-me", ",", "sentou-se", "ao", "pé", "de", "mim", ",", ...]`
 4. Realizar a mesma implementação em Java

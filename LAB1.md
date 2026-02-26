@@ -90,8 +90,8 @@ done
 import re
 
 codigo = "position = initial + rate * 60"
-regexp = r'[a-zA-Z_][a-zA-Z0-9_]*|\d+|[=+\-*]' # Definindo o automato finito
-tokens = re.findall(regexp, codigo) # Aqui o Automato Finito toma vida
+regexp = r'[a-zA-Z_][a-zA-Z0-9_]*|\d+|[=+\-*]' # Definindo o Automato Finito
+tokens = re.findall(regexp, codigo) # Aqui o Automato Finito toma vida, reconhecendo a gramática regular
 print(tokens)
 ```
 

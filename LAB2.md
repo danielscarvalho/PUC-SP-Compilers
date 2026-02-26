@@ -10,7 +10,7 @@ Atividades:
 
 Iniciamos em aula, finalização pela equipe
 
-- JFAP experimentar automatos com pilha, gramática livre de contexto
+- JFLAP experimentar automatos com pilha, gramática livre de contexto: https://www.jflap.org/
 - Balanced Parentesis: Criar parser
 - XML para JSON: Criar parser
 

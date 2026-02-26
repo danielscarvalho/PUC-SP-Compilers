@@ -104,6 +104,7 @@ código (x + y) { if (true) { ok } }
   - Código Python + Java funcionando dos parser de XML e Balanced Parenteses
   - Um parágrafo de cada aluno: “O que há de interessante no analisador sintático (parser), automato com pilha, gramática livre de contexto”
   - Texto em MD explicando/documentando as atividades realizadas...
+  - Usar as libs JUnit e PyUnit para testes unitários
     
 Referência - extra:
 

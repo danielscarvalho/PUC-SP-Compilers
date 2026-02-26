@@ -165,6 +165,8 @@ Discussão: Seria possível a IA criar um reconhecedor de língua portuguesa usa
   - Resposta da comparação OpenAI
   - Um parágrafo de cada aluno: “O que há de interessante no analisador léxico (scanner), automato finito, gramática regular”
   - Texto em MD explicando/documentando as atividades realizadas...
+  - Usar as libs JUnit e PyUnit para testes unitários
+
     
 Referência - extra:
 

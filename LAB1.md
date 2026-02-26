@@ -139,7 +139,7 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 Note que ainda não estamos identificando o tipo dos tokens: verbo, adjetivo, pontuação, pronome, etc...
 4. Realizar a mesma implementação em Java
 5. O programa em Python e Java deve ser bem documentado
-6. Subir no repo do GitHub desta atividade o arquivo do livro e o output (saída) vetor (lista)
+6. Subir no repo do GitHub desta atividade o arquivo do livro e o output (saída) vetor (lista), código-fonte, e todos os recursos usado no projeto/LAB
 
 > Todas estas atividades devem ser entregues no mesmo repo do GitHub<br>
 > Subir todos os arquivos de input e output utilizados, código fonte, .md, etc...

@@ -139,9 +139,10 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 4. Realizar a mesma implementação em Java
 5. O programa em Python e Java deve ser bem documentado
 6. Subir no repo do GitHub desta atividade o arquivo do livro e o output (saída) vetor (lista)
+Note que ainda não estamos identificando o tipo dos tokens: verbo, adjetivo, pontuação, pronome, etc...
 
 > Todas estas atividades devem ser entregues no mesmo repo do GitHub<br>
-> Subir todos os arquivos de input e output utilizados
+> Subir todos os arquivos de input e output utilizados, código fonte, .md, etc...
 
 ### Entrega final do Lab (em duplas - pairing)
 - Link do relatório em MD no GitHub com:

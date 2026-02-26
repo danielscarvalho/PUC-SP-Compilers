@@ -138,7 +138,7 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 4. O programa em Python e Java deve ser bem documentado
 5. Subir no GitHub desta atividade o arquivo do livro e o output (saída) tokenizado
 
-> Todas estas atividades devem ser entregues no mesmo repo do GitHub
+> Todas estas atividades devem ser entregues no mesmo repo do GitHub<br>
 > Subir todos os arquivos de input e output utilizados
 
 ### Entrega final do Lab (em duplas - pairing)

@@ -16,7 +16,7 @@ Atividades:
 - OpenAI tokenizer - https://platform.openai.com/tokenizer (é um pouco diferente dos tokens de compiladores que seguem a gramática da linguagem de programação)
 - JFLAP - https://www.jflap.org/tutorial/ - Automatos Finitos e regex
 - Google Colab - https://colab.research.google.com/ - Regexp com Python
-- Criar analisador léxico - Scanner - 1 fase de compilação (análise) para tokenizar texto em língua portuguesa
+- Criar analisador léxico - Scanner - 1 fase de compilação (análise) para quebrar texto em língua portuguesa em uma lista de tokens
 
 **Fase 1 de Compiladores (Análise Léxica / Scanner)**: Capítulo 1 do Livro do Dragão 
 
@@ -134,11 +134,11 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 
 **Atividade:**
 1. Baixar livro .txt UTF-8 à escolha da equipe do Project Gutenberg. https://www.gutenberg.org/
-2. Criar programa em Python, scanner, usando regexp para tokenizar o livro conforme a gramática da língua portuguesa
+2. Criar programa em Python, scanner, usando regexp para quebrar em tokens o texto do livro conforme a gramática da língua portuguesa
 3. A entrada (input) é um arquivo texto, a saída (output) é um vetor (lista) de strings, exemplo: `["Do", "título", ".", "Uma", "noite", "destas", ",", "vindo", "da", "cidade", "para", "o", "Engenho", "Novo", ",", "encontrei", "no", "trem", "da", "Central", "um", "rapaz", "aqui", "do", "bairro", ",", "que", "eu", "conheço", "de", "vista", "e", "de", "chapéo", ".", "Comprimentou-me", ",", "sentou-se", "ao", "pé", "de", "mim", ",", ...]`
 4. Realizar a mesma implementação em Java
 5. O programa em Python e Java deve ser bem documentado
-6. Subir no GitHub desta atividade o arquivo do livro e o output (saída) tokenizado
+6. Subir no repo do GitHub desta atividade o arquivo do livro e o output (saída) vetor (lista)
 
 > Todas estas atividades devem ser entregues no mesmo repo do GitHub<br>
 > Subir todos os arquivos de input e output utilizados

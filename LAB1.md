@@ -12,7 +12,7 @@ Atividades:
 - RegExp - https://regexr.com/ - Regexp para reconhecer e-mails, números, telefones e outros padrões...
 - RegExp - https://regex101.com/ - Regexp para reconhecer e-mails, números, telefones e outros padrões...
 - Find replace em editores de texto com regex, útil para processar arquivos de dados
-- RegExp - em Java e Python
+- RegExp - Experimentar em [Java](https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html) e [Python](https://docs.python.org/3/library/re.html)
 - OpenAI tokenizer - https://platform.openai.com/tokenizer (é um pouco diferente dos tokens de compiladores que seguem a gramática da linguagem de programação)
 - JFLAP - https://www.jflap.org/tutorial/ - Automatos Finitos e regex
 - Google Colab - https://colab.research.google.com/ - Regexp com Python

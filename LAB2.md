@@ -27,7 +27,7 @@ Implementar dois analisadores sintáticos rudimentares usando **pilha explícita
 - 3–5 casos de teste por exercício (incluindo casos de erro)  
 - Relatório curto (1 página): o que a pilha está “lembrando” em cada caso
 
-### 1. Verificador de Parênteses Balanceados (Balanced Parentheses)
+### 1. Verificador de Parênteses Balanceados (Balanced Parentheses) - (2 horas)
 
 **Regras aceitas**:
 - Suporta `()`, `[]`, `{}`, `<>`
@@ -51,7 +51,7 @@ código (x + y) { if (true) { ok } }
 <>[<[>]]
 ```
 
-### 2. Conversor XML → JSON (sem bibliotecas – parser manual com pilha)
+### 2. Conversor XML → JSON (sem bibliotecas – parser manual com pilha) - (2 horas)
 
 **Restrições importantes**:
 - XML bem formado (sem atributos complexos, sem CDATA, sem namespaces)

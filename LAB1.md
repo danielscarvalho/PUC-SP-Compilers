@@ -8,14 +8,14 @@ Ler cap. 1 do livro do dragão.
 
 Atividades:
 
-- Bash - Prompt do Linux Ubuntu - Loop infinito do terminal
-- RegExp - https://regexr.com/
-- RegExp - https://regex101.com/
-- Find replace em editores de texto, útil para processar arquivos de dados
+- Bash - Prompt do Linux Ubuntu - Loop infinito do terminal - Conceitos básicos de comandos do Linux no terminal
+- RegExp - https://regexr.com/ - Regexp para reconhecer e-mails, números, telefones e outros padrões...
+- RegExp - https://regex101.com/ - Regexp para reconhecer e-mails, números, telefones e outros padrões...
+- Find replace em editores de texto com regex, útil para processar arquivos de dados
 - RegExp - em Java e Python
 - OpenAI tokenizer - https://platform.openai.com/tokenizer (é um pouco diferente dos tokens de compiladores que seguem a gramática da linguagem de programação)
-- JFLAP - https://www.jflap.org/tutorial/
-- Google Colab - https://colab.research.google.com/
+- JFLAP - https://www.jflap.org/tutorial/ - Automatos Finitos e regex
+- Google Colab - https://colab.research.google.com/ - Regexp com Python
 
 **Fase 1 de Compiladores (Análise Léxica / Scanner)**: Capítulo 1 do Livro do Dragão 
 

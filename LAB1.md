@@ -90,6 +90,9 @@ codigo = "position = initial + rate * 60"
 tokens = re.findall(r'[a-zA-Z_][a-zA-Z0-9_]*|\d+|[=+\-*]', codigo)
 print(tokens)
 ```
+
+Usar biblioteca do Python `requests` para ler conteúdo texto de página WEB e extrair e-mails com regexp...
+
 **Alunos evoluem para:**
 - Função `tokenize(texto)` que retorna lista de tuplas `(tipo, lexema)` (ex: `('ID', 'position')`, `('OP', '=')`).
 
@@ -124,15 +127,16 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 
 **Discussão final em plenária (15 min):** “Por que o scanner de compilador precisa ser preciso e seguir a gramática, enquanto o da OpenAI não?”
 
-### Entrega final do Lab (individual ou dupla)
-- Relatório em MD no GitHub com:
+### Entrega final do Lab (em duplas - pairing)
+- Link do relatório em MD no GitHub com:
   - Identificação: faculdade, curso, disciplina, alunos
   - Printscreen de todas as atividades
   - Código Python + Java funcionando
   - Captura das telas do JFLAP
   - Resposta da comparação OpenAI
   - Uma frase de cada aluno: “O que há de interessante no analisador léxico (scanner), automato finito”
-  
+  - Texto em MD explicando as atividades realizadas...
+    
 Referência - extra:
 
 <img width="1400" height="788" alt="image" src="https://github.com/user-attachments/assets/00a5b168-bc93-408e-a868-240d8ea17f9c" />

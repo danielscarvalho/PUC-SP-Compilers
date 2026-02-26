@@ -38,7 +38,7 @@ Como criar scripts executáveis no Linux.
 while true; do
     read -r linha
     echo "[SCANNER] Linha recebida: '$linha'"
-    # aqui virá o processamento léxico depois
+    # Aqui virá o processamento léxico depois (pode usar AI LLM)
 done
 ```
 **Etapas:**
@@ -90,7 +90,8 @@ done
 import re
 
 codigo = "position = initial + rate * 60"
-tokens = re.findall(r'[a-zA-Z_][a-zA-Z0-9_]*|\d+|[=+\-*]', codigo)
+regexp = r'[a-zA-Z_][a-zA-Z0-9_]*|\d+|[=+\-*]' # Definindo o automato finito
+tokens = re.findall(regexp, codigo) # Aqui o Automato Finito toma vida
 print(tokens)
 ```
 

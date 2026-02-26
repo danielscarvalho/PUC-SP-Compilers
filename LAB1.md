@@ -144,6 +144,13 @@ Note que ainda não estamos identificando o tipo dos tokens: verbo, adjetivo, po
 > Todas estas atividades devem ser entregues no mesmo repo do GitHub<br>
 > Subir todos os arquivos de input e output utilizados, código fonte, .md, etc...
 
+### Atividade Extra - Analisador léxico da língua portuguesa
+
+Usando AI LLM, pedir o seguinte prompt: <br>
+"Criar um programa em Python, analisador léxico - scanner,  para quebrar em tokens uma string com um livro, conforme as regras da língua portuguesa. Devolver uma lista de tuplas, o primeiro item é o token, e o segundo item é o tipo: pontuação, verbo, artigo, pronome, objeto, etc... Tokens não identificados retorne '??'"
+
+Teste o programa criado por IA com o livro.
+
 ### Entrega final do Lab (em duplas - pairing)
 - Link do relatório em MD no GitHub com:
   - Identificação: faculdade, curso, disciplina, LAB, alunos

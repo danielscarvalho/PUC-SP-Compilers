@@ -16,7 +16,7 @@ Iniciamos em aula, finalização pela equipe
 - Find replace em editores de texto com regex, útil para processar arquivos de dados
 - RegExp - Experimentar em [Java](https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html) e [Python](https://docs.python.org/3/library/re.html)
 - OpenAI tokenizer - https://platform.openai.com/tokenizer (é um pouco diferente dos tokens de compiladores que seguem a gramática da linguagem de programação)
-- JFLAP - https://www.jflap.org/tutorial/ - Automatos Finitos e regex
+- JFLAP - https://www.jflap.org/tutorial/ - Automatos Finitos e regex (Duke, Computer Science, USA)
 - FAT - http://cl-informatik.uibk.ac.at/software/fat/ - Finit Automata Tool (University of Innsbruck, Austria)
 - Google Colab - https://colab.research.google.com/ - Regexp com Python
 - Criar analisador léxico - Scanner - 1 fase de compilação (análise) para quebrar texto em língua portuguesa em uma lista de tokens

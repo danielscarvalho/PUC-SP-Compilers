@@ -28,6 +28,7 @@ Após ler o Capítulo 1 (especialmente a seção 1.2.1 – Lexical Analysis), va
 
 ### Preparação (material para o LAB)
 - Ler **Capítulo 1 completo** do Livro do Dragão (foco em 1.2.1 Lexical Analysis + Figura 1.7).
+- Ler **Capítulo 3 completo** Lexical Analysis
 - PC desktop ou notebook com Ubuntu 22.04/24.04 ou VM Ubuntu + internet, ou no Windows 10 ou 11 no WSL2.
 
 ### LAB – ~4 horas (pode ser dividido em 2 sessões/aulas)

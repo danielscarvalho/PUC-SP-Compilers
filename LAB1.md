@@ -53,7 +53,7 @@ done
 **Conexão com o livro:** “The lexical analyzer reads the stream of characters...” (p. 6).
 
 #### **Atividade 2 – Expressões Regulares online (regexr + regex101)** (45 min)
-**Objetivo:** Ver na prática que tokens são definidos por **expressões regulares** (base do scanner).
+**Objetivo:** Experimentar de forma prática que tokens são definidos por **expressões regulares** (base do scanner).
 
 **Passo a passo (alunos + professor juntos):**
 1. Acessar **https://regexr.com/** e **https://regex101.com/**
@@ -168,6 +168,11 @@ Discussão: Seria possível a IA criar um reconhecedor de língua portuguesa usa
   - Texto em MD explicando/documentando as atividades realizadas...
   - Usar as libs JUnit e PyUnit para testes unitários
 
+Referências - Python:
+
+- Pense Python, Allen B. Downey: https://penseallen.github.io/PensePython2e/
+- O Guia do Mochileiro para Python!, Kenneth Reitz: https://python-guide-pt-br.readthedocs.io/pt-br/latest/
+- Python Notes for Professionals, Goalkicker: https://goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf
     
 Referência - extra:
 

@@ -159,7 +159,7 @@ Discussão: Seria possível a IA criar um reconhecedor de língua portuguesa usa
 
 ### Entrega final do LAB (em duplas - pairing)
 - Link do relatório em MD no GitHub com:
-  - Identificação: faculdade, curso, disciplina, LAB, alunos
+  - Identificação: faculdade, curso, disciplina, LAB, equipe (primeiro e último nome dos alunos)
   - Printscreen de todas as atividades
   - Código Python + Java funcionando
   - Captura das telas do JFLAP e FAT

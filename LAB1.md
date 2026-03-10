@@ -78,11 +78,13 @@ done
 
 **Ferramentas:** MS VS Code, vi ou gedit (modo regex ativado).
 **Exercícios:**
+C
 - Remover todos os comentários `//` e `/* */` de um arquivo grande.
 - Substituir todos os `=` por `:=` (simulando mudança de linguagem).
-- Limpar espaços extras em um arquivo de dados CSV maior que 1 mil linhas (registros).
+CSV: https://dadosabertos.mec.gov.br/images/conteudo/fies/2021/relatorio_dados_abertos_oferta_12021_18102021.csv
+- Limpar espaços extras em um arquivo de dados CSV maior que 10 mil linhas (registros).
 - Tornar um CSV em um TSV
-- CSV com dados em português para inglês, trocar `,` -> `.` e `,` -> `;`
+- CSV com dados em português converter para inglês, trocar `,` -> `.` e `,` -> `;`
 
 **Conexão:** O scanner faz exatamente isso em tempo de compilação.
 

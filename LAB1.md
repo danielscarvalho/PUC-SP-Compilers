@@ -80,7 +80,7 @@ done
 **Exercícios:**
 - Remover todos os comentários `//` e `/* */` de um arquivo grande.
 - Substituir todos os `=` por `:=` (simulando mudança de linguagem).
-- Limpar espaços extras em um arquivo CSV de 10 mil linhas.
+- Limpar espaços extras em um arquivo de dados CSV maior que 1 mil linhas (registros).
 - Tornar um CSV em um TSV
 - CSV com dados em português para inglês, trocar `,` -> `.` e `,` -> `;`
 

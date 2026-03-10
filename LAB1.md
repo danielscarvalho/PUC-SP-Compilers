@@ -115,9 +115,9 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 **Link:** https://www.jflap.org/tutorial/
 
 **Passo a passo guiado pelo professor:**
-1. Criar DFA para reconhecer **números inteiros**.
+1. Criar DFA (Deterministic Finite Automata) para reconhecer **números inteiros**.
 2. Criar DFA para **identificadores**.
-3. Criar NFA para operador `=` e `==` (ambiguidade).
+3. Criar NFA (Non-Deterministic Finite Automata - Pode seguir dois fluxos) para operador `=` e `==` (ambiguidade).
 4. Converter NFA → DFA (ferramenta automática do JFLAP).
 5. Simular passo a passo com a string do livro.
 

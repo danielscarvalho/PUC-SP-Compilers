@@ -76,8 +76,8 @@ done
 #### **Atividade 3 – Find/Replace com regex em editores de texto** (20 min)
 **Objetivo:** Mostrar aplicação real de regex fora de compiladores (processamento de dados).
 
-**Ferramentas:** MS VS Code, vi ou gedit (modo regex ativado).<br>
-**Exercícios:**
+**Ferramentas:** MS VS Code, vi ou gedit (modo regex ativado).
+**Exercícios:**<br>
 C
 - Remover todos os comentários `//` e `/* */` de um arquivo grande.
 - Substituir todos os `=` por `:=` (simulando mudança de linguagem).<br>

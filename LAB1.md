@@ -76,11 +76,11 @@ done
 #### **Atividade 3 – Find/Replace com regex em editores de texto** (20 min)
 **Objetivo:** Mostrar aplicação real de regex fora de compiladores (processamento de dados).
 
-**Ferramentas:** MS VS Code, vi ou gedit (modo regex ativado).
+**Ferramentas:** MS VS Code, vi ou gedit (modo regex ativado).<br>
 **Exercícios:**
 C
 - Remover todos os comentários `//` e `/* */` de um arquivo grande.
-- Substituir todos os `=` por `:=` (simulando mudança de linguagem).
+- Substituir todos os `=` por `:=` (simulando mudança de linguagem).<br>
 CSV: https://dadosabertos.mec.gov.br/images/conteudo/fies/2021/relatorio_dados_abertos_oferta_12021_18102021.csv
 - Limpar espaços extras em um arquivo de dados CSV maior que 10 mil linhas (registros).
 - Tornar um CSV em um TSV

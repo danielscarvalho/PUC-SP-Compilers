@@ -21,7 +21,7 @@ Iniciamos em aula, finalização pela equipe
 - Google Colab - https://colab.research.google.com/ - Regexp com Python
 - Criar analisador léxico - Scanner - 1 fase de compilação (análise) para quebrar texto em língua portuguesa em uma lista de tokens
 
-**Fase 1 de Compiladores (Análise Léxica / Scanner)**: Capítulo 1 e 3 do Livro do Dragão 
+**Fase 1 de Compiladores (Análise Léxica / Scanner)**: Capítulos 1 e 3 do Livro do Dragão 
 
 **Objetivo do LAB**  
 Após ler o Capítulo 1 (especialmente a seção 1.2.1 – Lexical Analysis), vamos **vivenciar na prática** o que o livro explica: o scanner lê o fluxo de caracteres (`character stream`), agrupa em lexemas e gera tokens (exemplo clássico da página 6: `position = initial + rate * 60`).
@@ -117,7 +117,7 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 **Passo a passo guiado pelo professor:**
 1. Criar DFA (Deterministic Finite Automata) para reconhecer **números inteiros**.
 2. Criar DFA para **identificadores**.
-3. Criar NFA (Non-Deterministic Finite Automata - Pode seguir dois fluxos) para operador `=` e `==` (ambiguidade).
+3. Criar NFA (Non-Deterministic Finite Automata - Pode seguir mais de um fluxo) para operador `=` e `==` (ambiguidade).
 4. Converter NFA → DFA (ferramenta automática do JFLAP).
 5. Simular passo a passo com a string do livro.
 

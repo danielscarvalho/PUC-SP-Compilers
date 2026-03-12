@@ -3,7 +3,7 @@
 # AI LLM aid Bash script - X Grok
 # C lang Scanner - Analisador Léxico
 # @danielscarvalho
-# scanner.sh
+# c_scanner.sh
 # Very basic C tokenizer (bash implementation)
 # Usage: ./s_canner.sh program.c
 

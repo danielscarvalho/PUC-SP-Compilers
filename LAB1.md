@@ -139,7 +139,7 @@ Usar `java.util.regex.Pattern` e `Matcher` com grupos nomeados.
 
 **Discussão final em plenária (15 min):** “Por que o scanner de compilador precisa ser preciso e seguir a gramática, enquanto o da OpenAI não?”
 
-#### **Atividade 6 – Tokenizar livro em português (Criar analisador léxico, scanner)** (30 min + duplas)
+#### **Atividade 7 – Tokenizar livro em português (Criar analisador léxico, scanner)** (30 min + duplas)
 
 **Atividade:**
 1. Baixar livro .txt UTF-8, à escolha da equipe, do Project Gutenberg. https://www.gutenberg.org/

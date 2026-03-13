@@ -6,8 +6,8 @@ Front-end: Analysis<br>
 3. **Semantic Analysis**
 
 Back-end: Synthesys<br>
-4. **Intermediate Code Generation**
-5. **Code Optimization**
+4. **Intermediate Code Generation**<br>
+5. **Code Optimization**<br>
 6. **Code Generation** (target/machine code)
 
 These transform high-level source code into executable machine code through a pipeline. You can relate each phase to **AI/ML** (machine learning techniques like neural networks, RL, graph models) and **AI LLMs** (large language models like GPT, Code Llama, or specialized code models) in two ways:

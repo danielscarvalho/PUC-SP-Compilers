@@ -1,11 +1,11 @@
 **The 6 phases of a compiler** (as described in the classic Dragon Book by Aho, Sethi, and Ullman, and standard compiler design texts) are:
 
-Front-end: Analysis
+Front-end: Analysis<br>
 1. **Lexical Analysis** (scanning/tokenization)
 2. **Syntax Analysis** (parsing)
 3. **Semantic Analysis**
 
-Back-end: Synthesys
+Back-end: Synthesys<br>
 4. **Intermediate Code Generation**
 5. **Code Optimization**
 6. **Code Generation** (target/machine code)

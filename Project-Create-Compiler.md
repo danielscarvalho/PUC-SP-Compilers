@@ -1,5 +1,10 @@
 # Computer Science 🧠
 ## Compilers 🐲
+
+From theory to practice!!
+
+Let's work!!
+
 ### LAB 🥼👨🏻‍💻⚗️
 
 Project: Build a Toy Compiler for Mini-Pascal or Mini-X programming language using Flex, Bison, and LLVM

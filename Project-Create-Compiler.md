@@ -21,7 +21,7 @@ Develop a complete toy compiler for a Mini-Pascal, or Mini-X language on Linux o
 sudo apt install flex, bison, llvm, nasm
 ```
 
-Enviroment check (and show evidence):
+Environment check (and show evidence):
 
 ```bash
 gcc -v
@@ -34,7 +34,7 @@ llvm-config --version
 
 ### Language Requirements (Mini-Pascal as example)
 
-Define and implement a minimal but sufficient subset of Pascal or X programming language (as example) with the following features:
+Define and implement a minimal but sufficient subset of Pascal or X programming language (as an example) with the following features:
 
 - Data types: integer, boolean, real (optional)
 - Variables declaration and assignment
@@ -50,9 +50,9 @@ Define and implement a minimal but sufficient subset of Pascal or X programming 
 
 The compiler must successfully compile and run these programs:
 
-- factor.pas: Integer Factorization. Receives one integer via command line. Prints its prime factors (e.g., factor 84 → 2 2 3 7).
-- isprime.pas: Prime Number Check. Receives one integer via command line. Prints true or false indicating whether the number is prime.
-- pidigits.pas: Pi Digits. Receives an integer n (number of digits) via command line. Prints the first n decimal digits of π (e.g., using a series expansion or spigot algorithm).
+- factor.pas: Integer Factorization. Receives one integer via the command line. Prints its prime factors (e.g., factor 84 → 2 2 3 7).
+- isprime.pas: Prime Number Check. Receives one integer via the command line. Prints true or false indicating whether the number is prime.
+- pidigits.pas: Pi Digits. Receives an integer n (number of digits) via the command line. Prints the first n decimal digits of π (e.g., using a series expansion or spigot algorithm).
 - fibonacci.pas: Gets an integer from the command line and calculates and prints the corresponding Fibonacci number according to the sequence.
 
 > Create a minimum toy language to compile the test program sources (.pas, .c, .bas, etc... as your team language)
@@ -80,7 +80,9 @@ Complete step-by-step tutorial (Markdown) for your toy programming language cove
 - Test programs executables, source code, lex result and grammar result files, asm file
 - Evidence (screenshot) of running the test programs
 
-Technical Constraints & Best PracticesTarget: 
+Technical Constraints & Best Practices
+
+Target: 
 
 - Work on Linux (x86-64) or Mac, do not waste time trying on Windows, you can try WSL2 Ubuntu
 - Use LLVM C++ API (recommended) or LLVM IR builder
@@ -97,15 +99,15 @@ Additional Instructions for the AI Assistant (if using one):
 - Prefer modern C++ where appropriate.
 - Save all related files on GitHub project repo
 
-Upload to MS Teams the link for GitHub project repo, just one student by team
+Upload to MS Teams the link for the GitHub project repo, just one student per team
 
 > 🃏 For God's sake, list team member names in README.md!! You are not at the first college year anymore!!
 
 ---
 
-> THIS IS A HARD SKILL!!
-> THIS IS A MILESTONE IN YOUR CAREER JOURNEY TO BECOME A COMPUTER SCIENTIST!
-> Creating your own programming language!
+> THIS IS A HARD SKILL!!<br>
+> THIS IS A MILESTONE IN YOUR CAREER JOURNEY TO BECOME A COMPUTER SCIENTIST!<br>
+> Creating your own programming language!<br>
 > Get proud of yourself!! 🎉 🥳
 
 ### References:

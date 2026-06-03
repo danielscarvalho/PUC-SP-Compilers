@@ -125,3 +125,9 @@ Upload to MS Teams the link for the GitHub project repo, just one student per te
 - https://www.gnu.org/software/bison/manual/html_node/index.html
 - https://llvm.org/
 - https://llvm.org/docs/
+
+### Hint:
+
+Work better with AI LLM Prompt Engineering:
+
+![](https://substackcdn.com/image/fetch/$s_!30Dw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b7c3d11-435a-48aa-a531-d7a655806edf_3240x4050.png)

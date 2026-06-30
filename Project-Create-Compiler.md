@@ -10,7 +10,7 @@ Let's work!!
 Project: Build a Toy Compiler for Mini-Pascal or Mini-X programming language using Flex, Bison, and LLVM
 
 - Teams of 3 students, no individual projects, no more than 3 students
-- Each team needs to implement a mini compiler for a different imperative programming language, such as Pascal, Basic, C, C++, Java, JavaScript, Python, OCaml, Fortran, Go, Lua, Logo, R, Bash and others...
+- Each team needs to implement a mini compiler for a different imperative programming language, such as Pascal, Basic, C, C++, Java, JavaScript, Python, OCaml, PHP, Pearl, Fortran, Go, Lua, Logo, R, Bash, and others...
 - Use AI LLM wisely, inform the one used and the prompts
 - AI LLM Prompts in English return better results than Portuguese
 - Use more than one AI LLM, one to help with coding, another to review and assist with documentation
